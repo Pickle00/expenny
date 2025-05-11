@@ -1,4 +1,3 @@
-import 'package:expense_tracker/router/app_router.dart';
 import 'package:expense_tracker/router/router_path.dart';
 import 'package:expense_tracker/screens/onboarding/widgets/onboarding_page.dart';
 import 'package:flutter/material.dart';
